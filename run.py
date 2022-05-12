@@ -188,7 +188,7 @@ def print_result(max_group1, max_group2):
     total_score2 = get_total_score(max_group2)
     log(f"group1 前两个最大分数和total_score1:{total_score1}")
     log(f"group2 前两个最大分数和total_score2:{total_score2}")
-    log(f"total_score1+total_score2={total_score1 + total_score2}\ngroup1/group2={(total_score1 / total_score2):.2f}")
+    log(f"total_score1-total_score2={total_score1 - total_score2}\ngroup1/group2={(total_score1 / total_score2):.2f}")
 
 
 # brief 数据文件检测
