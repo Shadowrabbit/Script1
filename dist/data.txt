@@ -1,0 +1,57 @@
+
+请输入模式
+模式1 纯随机16个数
+模式2 平均分布16个数
+请输入范围区间 左
+请输入范围区间 右
+当前输入的随机数范围[2,3]
+请输入计算次数
+计算次数:4
+
+
+group1成员:3,2,3,3,3,2,3,2
+group2成员:3,3,2,2,3,2,3,2
+分数最大值1: 3
+分数最大值2: 3
+分数最大值1: 3
+分数最大值2: 3
+group1 前两个最大分数和total_score1:6
+group2 前两个最大分数和total_score2:6
+total_score1+total_score2=12
+group1/group2=1.00
+
+
+group1成员:2,2,2,3,2,2,3,2
+group2成员:3,3,2,3,3,3,2,2
+分数最大值1: 3
+分数最大值2: 3
+分数最大值1: 3
+分数最大值2: 3
+group1 前两个最大分数和total_score1:6
+group2 前两个最大分数和total_score2:6
+total_score1+total_score2=12
+group1/group2=1.00
+
+
+group1成员:3,3,3,2,2,3,3,3
+group2成员:3,3,3,2,3,3,2,3
+分数最大值1: 3
+分数最大值2: 3
+分数最大值1: 3
+分数最大值2: 3
+group1 前两个最大分数和total_score1:6
+group2 前两个最大分数和total_score2:6
+total_score1+total_score2=12
+group1/group2=1.00
+
+
+group1成员:2,3,3,2,3,3,2,2
+group2成员:2,3,2,3,3,3,2,3
+分数最大值1: 3
+分数最大值2: 3
+分数最大值1: 3
+分数最大值2: 3
+group1 前两个最大分数和total_score1:6
+group2 前两个最大分数和total_score2:6
+total_score1+total_score2=12
+group1/group2=1.00
